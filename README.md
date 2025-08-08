@@ -58,10 +58,6 @@
 └── img/
     └── ia.png      # Imagen decorativa
   </pre>
-
-  <h2>📸 Capturas de pantalla</h2>
-  <p>(Opcional: aquí puedes añadir imágenes del juego en acción)</p>
-
   <h2>📄 Licencia</h2>
   <p>Este proyecto está basado en el curso "Lógica de Programación" de Alura Latam y forma parte del programa Oracle Next Education (ONE). 
 Todo el contenido y el código original pertenecen a Alura, y este documento se ha creado únicamente con fines educativos como adaptación personal.</p>
